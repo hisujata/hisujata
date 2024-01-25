@@ -1,8 +1,8 @@
-![logo](https://github.com/hisujata/Media/blob/master/gitbanner.png)
+![logo](https://github.com/hisujata/hisujata/blob/master/gitbanner.png)
 <h1 align="center">Hello, World!👋, I'm Sujata Athor</h1>
 <h3 align="center">Passionate technology enthusiast with a focus on AWS, DevOps, and React.</h3>
 
-<img align="right" src="https://github.com/hisujata/Media/blob/master/gitgif.gif" width="400">
+<img align="right" src="https://github.com/hisujata/hisujata/blob/master/gitgif.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisujata&label=Profile%20views&color=0e75b6&style=flat" alt="hisujata" /> </p>
 
